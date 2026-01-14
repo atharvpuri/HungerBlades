@@ -28,3 +28,5 @@ Due to the high fidelity of the assets, the project file size exceeds standard r
 
 ## License
 This project is open-source for educational and portfolio purposes.
+<img width="1919" height="1079" alt="Screenshot 2026-01-09 154841" src="https://github.com/user-attachments/assets/8b92936a-a922-4df0-bf4a-c2eee59dd918" />
+<img width="1919" height="1079" alt="Screenshot 2026-01-09 154859" src="https://github.com/user-attachments/assets/d7a52ef3-de52-4664-863a-7cbb52330413" />
