@@ -15,9 +15,7 @@ This repository hosts the initial prototype for a AAA-level exploration game dev
 * **Systems:** Basic navigation and collision systems implemented within the Unreal framework.
 
 ## Download and Installation
-Due to the high fidelity of the assets, the project file size exceeds standard repository limits. The full project source, including Content, Config, and the .uproject file, is available via the external link below.
-
-**[INSERT YOUR GOOGLE DRIVE LINK HERE]**
+Due to the high fidelity of the assets, the project file size exceeds standard repository limits. The full project source, including Content, Config, and the .uproject file
 
 ### How to Run
 1.  Download the ZIP file from the link above.
